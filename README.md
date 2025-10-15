@@ -79,5 +79,3 @@ Hata yönetimi ve kullanıcı yönlendirmesi
 Eğitim amacıyla yazılmıştır.
 Kod açıklamaları, karakter tipleri, ASCII farkı ve C’nin temel giriş-çıkış sistemine dair detaylı bilgiler içerir.
 
-Eğitim amacıyla yazılmıştır.
-Kod açıklamaları, karakter tipleri, ASCII farkı ve C’nin temel giriş-çıkış sistemine dair detaylı bilgiler içerir.
